@@ -1,6 +1,6 @@
-## Hi there 👋 I'm **Keerthi Swaroop Satambakkam**
+<h1 align="center">Hi there 👋 I'm <strong>Keerthi Swaroop Satambakkam</strong></h1>
 
-🚀 **Data Engineer | Cloud & Big Data Enthusiast**
+<h3 align="center">🚀 **Data Engineer | Cloud & Big Data Enthusiast**</h3>
 
 Passionate about designing scalable **data pipelines**, architecting **data warehouses**, and building efficient **ETL/ELT solutions** that transform raw data into actionable insights.
 
